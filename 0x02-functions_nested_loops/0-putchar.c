@@ -1,8 +1,8 @@
 #include "main.h"
 /**
  * main - pp
- * is written by 
- * Return; 0
+ * is written by
+ * Return: 0.
  */
 
 int main(void)
